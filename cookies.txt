@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+patelparth1960.wixsite.com	TRUE	/toybusiness	FALSE	1999999999	svSession	1f4b6d9efa5d336163b7e43db674521d94f058d957d4d56dc9719cf0cdd51686a7617b2eff2b92e7634715a5aa02ec891e60994d53964e647acf431e4f798bcd3111c08b6538a9ab507f6fb0c14f742e9f469c34fa54754051eb648a5ad53b58
+patelparth1960.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1591763898|nP9gEJNs2EIo
+patelparth1960.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss"
+patelparth1960.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1610730322
+
